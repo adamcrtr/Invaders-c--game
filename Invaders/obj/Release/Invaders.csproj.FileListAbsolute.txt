@@ -1,0 +1,22 @@
+C:\Users\SamCo\Desktop\Invaders C#\Invaders\Invaders\bin\Release\Invaders.exe.config
+C:\Users\SamCo\Desktop\Invaders C#\Invaders\Invaders\bin\Release\Invaders.exe
+C:\Users\SamCo\Desktop\Invaders C#\Invaders\Invaders\bin\Release\Invaders.pdb
+C:\Users\SamCo\Desktop\Invaders C#\Invaders\Invaders\bin\Release\Invaders.xml
+C:\Users\SamCo\Desktop\Invaders C#\Invaders\Invaders\obj\Release\Invaders.Invaders.resources
+C:\Users\SamCo\Desktop\Invaders C#\Invaders\Invaders\obj\Release\Invaders.MainMenu.resources
+C:\Users\SamCo\Desktop\Invaders C#\Invaders\Invaders\obj\Release\Invaders.Resources.resources
+C:\Users\SamCo\Desktop\Invaders C#\Invaders\Invaders\obj\Release\Invaders.csproj.GenerateResource.cache
+C:\Users\SamCo\Desktop\Invaders C#\Invaders\Invaders\obj\Release\Invaders.csproj.CoreCompileInputs.cache
+C:\Users\SamCo\Desktop\Invaders C#\Invaders\Invaders\obj\Release\Invaders.exe
+C:\Users\SamCo\Desktop\Invaders C#\Invaders\Invaders\obj\Release\Invaders.pdb
+H:\HND\Game Development\Invaders C#\Invaders\Invaders\bin\Release\Invaders.exe.config
+H:\HND\Game Development\Invaders C#\Invaders\Invaders\bin\Release\Invaders.exe
+H:\HND\Game Development\Invaders C#\Invaders\Invaders\bin\Release\Invaders.pdb
+H:\HND\Game Development\Invaders C#\Invaders\Invaders\bin\Release\Invaders.xml
+H:\HND\Game Development\Invaders C#\Invaders\Invaders\obj\Release\Invaders.Invaders.resources
+H:\HND\Game Development\Invaders C#\Invaders\Invaders\obj\Release\Invaders.MainMenu.resources
+H:\HND\Game Development\Invaders C#\Invaders\Invaders\obj\Release\Invaders.Resources.resources
+H:\HND\Game Development\Invaders C#\Invaders\Invaders\obj\Release\Invaders.csproj.GenerateResource.cache
+H:\HND\Game Development\Invaders C#\Invaders\Invaders\obj\Release\Invaders.csproj.CoreCompileInputs.cache
+H:\HND\Game Development\Invaders C#\Invaders\Invaders\obj\Release\Invaders.exe
+H:\HND\Game Development\Invaders C#\Invaders\Invaders\obj\Release\Invaders.pdb

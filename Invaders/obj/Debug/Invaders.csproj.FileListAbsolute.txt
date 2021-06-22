@@ -1,0 +1,52 @@
+H:\HND\Game\Invaders\Invaders\obj\Debug\Invaders.csprojAssemblyReference.cache
+H:\HND\Game\Invaders\Invaders\obj\Debug\Invaders.Invaders.resources
+H:\HND\Game\Invaders\Invaders\obj\Debug\Invaders.My_Project.Resources.resources
+H:\HND\Game\Invaders\Invaders\obj\Debug\Invaders.csproj.GenerateResource.cache
+H:\HND\Game\Invaders\Invaders\obj\Debug\Invaders.csproj.CoreCompileInputs.cache
+H:\HND\Game\Invaders\Invaders\obj\Debug\Invaders.exe
+H:\HND\Game\Invaders\Invaders\obj\Debug\Invaders.pdb
+H:\HND\Game\Invaders\Invaders\bin\Debug\Invaders.exe.config
+H:\HND\Game\Invaders\Invaders\bin\Debug\Invaders.exe
+H:\HND\Game\Invaders\Invaders\bin\Debug\Invaders.pdb
+H:\HND\Game\Invaders\Invaders\bin\Debug\Invaders.xml
+C:\Users\SamCo\Desktop\Game\Invaders\Invaders\bin\Debug\Invaders.exe.config
+C:\Users\SamCo\Desktop\Game\Invaders\Invaders\bin\Debug\Invaders.exe
+C:\Users\SamCo\Desktop\Game\Invaders\Invaders\bin\Debug\Invaders.pdb
+C:\Users\SamCo\Desktop\Game\Invaders\Invaders\bin\Debug\Invaders.xml
+C:\Users\SamCo\Desktop\Game\Invaders\Invaders\obj\Debug\Invaders.csprojAssemblyReference.cache
+C:\Users\SamCo\Desktop\Game\Invaders\Invaders\obj\Debug\Invaders.csproj.GenerateResource.cache
+C:\Users\SamCo\Desktop\Game\Invaders\Invaders\obj\Debug\Invaders.exe
+C:\Users\SamCo\Desktop\Game\Invaders\Invaders\obj\Debug\Invaders.pdb
+C:\Users\SamCo\Desktop\Game\Invaders\Invaders\obj\Debug\Invaders.Resources.resources
+C:\Users\SamCo\Desktop\Invaders C#\Invaders\Invaders\bin\Debug\Invaders.exe.config
+C:\Users\SamCo\Desktop\Invaders C#\Invaders\Invaders\bin\Debug\Invaders.exe
+C:\Users\SamCo\Desktop\Invaders C#\Invaders\Invaders\bin\Debug\Invaders.pdb
+C:\Users\SamCo\Desktop\Invaders C#\Invaders\Invaders\bin\Debug\Invaders.xml
+C:\Users\SamCo\Desktop\Invaders C#\Invaders\Invaders\obj\Debug\Invaders.csprojAssemblyReference.cache
+C:\Users\SamCo\Desktop\Invaders C#\Invaders\Invaders\obj\Debug\Invaders.Resources.resources
+C:\Users\SamCo\Desktop\Invaders C#\Invaders\Invaders\obj\Debug\Invaders.csproj.GenerateResource.cache
+C:\Users\SamCo\Desktop\Invaders C#\Invaders\Invaders\obj\Debug\Invaders.exe
+C:\Users\SamCo\Desktop\Invaders C#\Invaders\Invaders\obj\Debug\Invaders.pdb
+C:\Users\SamCo\Desktop\Invaders C#\Invaders\Invaders\obj\Debug\Invaders.Invaders.resources
+C:\Users\SamCo\Desktop\Invaders C#\Invaders\Invaders\obj\Debug\Invaders.MainMenu.resources
+C:\Users\SamCo\Desktop\Invaders C#\Invaders\Invaders\obj\Debug\Invaders.csproj.CoreCompileInputs.cache
+F:\HND\Game Development\Invaders C#\Invaders\Invaders\bin\Debug\Invaders.exe.config
+F:\HND\Game Development\Invaders C#\Invaders\Invaders\obj\Debug\Invaders.exe
+F:\HND\Game Development\Invaders C#\Invaders\Invaders\obj\Debug\Invaders.pdb
+F:\HND\Game Development\Invaders C#\Invaders\Invaders\obj\Debug\Invaders.csprojResolveAssemblyReference.cache
+F:\HND\Game Development\Invaders C#\Invaders\Invaders\obj\Debug\Invaders.Invaders.resources
+F:\HND\Game Development\Invaders C#\Invaders\Invaders\obj\Debug\Invaders.MainMenu.resources
+F:\HND\Game Development\Invaders C#\Invaders\Invaders\obj\Debug\Invaders.Resources.resources
+F:\HND\Game Development\Invaders C#\Invaders\Invaders\obj\Debug\Invaders.csproj.GenerateResource.Cache
+H:\HND\Game Development\Invaders C#\Invaders\Invaders\bin\Debug\Invaders.exe.config
+H:\HND\Game Development\Invaders C#\Invaders\Invaders\bin\Debug\Invaders.exe
+H:\HND\Game Development\Invaders C#\Invaders\Invaders\bin\Debug\Invaders.pdb
+H:\HND\Game Development\Invaders C#\Invaders\Invaders\bin\Debug\Invaders.xml
+H:\HND\Game Development\Invaders C#\Invaders\Invaders\obj\Debug\Invaders.csprojAssemblyReference.cache
+H:\HND\Game Development\Invaders C#\Invaders\Invaders\obj\Debug\Invaders.Invaders.resources
+H:\HND\Game Development\Invaders C#\Invaders\Invaders\obj\Debug\Invaders.MainMenu.resources
+H:\HND\Game Development\Invaders C#\Invaders\Invaders\obj\Debug\Invaders.Resources.resources
+H:\HND\Game Development\Invaders C#\Invaders\Invaders\obj\Debug\Invaders.csproj.GenerateResource.cache
+H:\HND\Game Development\Invaders C#\Invaders\Invaders\obj\Debug\Invaders.csproj.CoreCompileInputs.cache
+H:\HND\Game Development\Invaders C#\Invaders\Invaders\obj\Debug\Invaders.exe
+H:\HND\Game Development\Invaders C#\Invaders\Invaders\obj\Debug\Invaders.pdb
